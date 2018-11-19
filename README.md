@@ -2,6 +2,14 @@
 
 ## Getting Started
 
+### Docker (clisp)
+
+From a terminal, run
+
+```bash
+make run
+```
+
 ### One-time Method
 
 From a terminal, execute your lisp interpreter on the file 'contemplate.lsp' e.g.
